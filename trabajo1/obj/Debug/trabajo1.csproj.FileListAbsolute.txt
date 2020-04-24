@@ -1,0 +1,5 @@
+C:\Users\ArrozSama\CTEDyA_2020_1C_com5_Somoza_Esteban\trabajo1\trabajo1\bin\Debug\trabajo1.exe
+C:\Users\ArrozSama\CTEDyA_2020_1C_com5_Somoza_Esteban\trabajo1\trabajo1\bin\Debug\trabajo1.pdb
+C:\Users\ArrozSama\CTEDyA_2020_1C_com5_Somoza_Esteban\trabajo1\trabajo1\obj\Debug\trabajo1.csprojResolveAssemblyReference.cache
+C:\Users\ArrozSama\CTEDyA_2020_1C_com5_Somoza_Esteban\trabajo1\trabajo1\obj\Debug\trabajo1.exe
+C:\Users\ArrozSama\CTEDyA_2020_1C_com5_Somoza_Esteban\trabajo1\trabajo1\obj\Debug\trabajo1.pdb
